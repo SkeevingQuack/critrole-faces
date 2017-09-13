@@ -12,12 +12,10 @@ keyleth = Character('Keyleth', 'Marisha Ray',
                         'characters/pc/Keyleth/Keyleth2.png',
                         'characters/pc/Keyleth/Ray.jpg')
 
-print(keyleth.actorpic.size)
-print(keyleth.charpic.size)
-
 master = tk.Tk()
 
-char = tk.Label(master, image=ImageTk.PhotoImage(keyleth.charpic))
+tkimage = ImageTk.PhotoImage(keyleth.charpic)
+char = tk.Label(master, image=tkimage)
 char.pack()
 
 master.mainloop()
