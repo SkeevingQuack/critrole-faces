@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Tiberius</short>
+    <full>Tiberius Stormwind</full>
+  </name>
+  <type>pc</type>
+  <actor>Orion Acaba</actor>
+  <links>
+    <mainpic>Tiberius.png</mainpic>
+    <actorpic>Acaba.jpg</actorpic>
+  </links>
+</character>

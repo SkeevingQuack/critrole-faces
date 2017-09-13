@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Vax</short>
+    <full>Vax'ildan</full>
+  </name>
+  <type>pc</type>
+  <actor>Liam O'Brien</actor>
+  <links>
+    <mainpic>Vaxildan2.png</mainpic>
+    <actorpic>OBrien.jpg</actorpic>
+  </links>
+</character>

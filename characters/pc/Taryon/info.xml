@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Taryon</short>
+    <full>Taryon Gary Darrington</full>
+    <alt>Taryon Darrington</alt>
+  </name>
+  <type>pc</type>
+  <actor>Sam Riegel</actor>
+  <links>
+    <mainpic>Taryon2.png</mainpic>
+    <actorpic>Riegel.jpg</actorpic>
+  </links>
+</character>

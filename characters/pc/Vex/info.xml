@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Vex</short>
+    <full>Vex'ahlia de Rolo</full>
+  </name>
+  <type>pc</type>
+  <actor>Laura Bailey</actor>
+  <links>
+    <mainpic>Vexahlia2.jpg</mainpic>
+    <actorpic>Bailey.jpg</actorpic>
+  </links>
+</character>

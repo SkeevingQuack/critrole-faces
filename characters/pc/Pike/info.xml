@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Pike</short>
+    <full>Pike Trickfoot</full>
+  </name>
+  <type>pc</type>
+  <actor>Ashley Johnson</actor>
+  <links>
+    <mainpic>Pike2.png</mainpic>
+    <actorpic>Johnson.jpg</actorpic>
+  </links>
+</character>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Scanlan</short>
+    <full>Scanlan Shorthalt</full>
+  </name>
+  <type>pc</type>
+  <actor>Sam Riegel</actor>
+  <links>
+    <mainpic>Scanlan2.png</mainpic>
+    <actorpic>Riegel.jpg</actorpic>
+  </links>
+</character>

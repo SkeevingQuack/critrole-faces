@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Keyleth</short>
+  </name>
+  <type>pc</type>
+  <actor>Marisha Ray</actor>
+  <links>
+    <mainpic>Keyleth2.png</mainpic>
+    <actorpic>Ray.jpg</actorpic>
+  </links>
+</character>

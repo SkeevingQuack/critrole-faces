@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+  <name>
+    <short>Percy</short>
+    <full>Percival Fredrickstein Von Musel Klossowski de Rolo III</full>
+    <alt>Percival de Rolo</alt>
+  </name>
+  <type>pc</type>
+  <actor>Taliesin Jaffe</actor>
+  <links>
+    <mainpic>Percy2.png</mainpic>
+    <actorpic>Jaffe.jpg</actorpic>
+  </links>
+</character>
